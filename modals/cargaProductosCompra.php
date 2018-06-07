@@ -19,7 +19,7 @@
                 <table class="table">
                   <tbody>
                     <tr class="warning">
-                      <th class="hidden" ng-click="sort('codigo')">codigo
+                      <th ng-click="sort('codigo')">codigo
                         <span class="glyphicon sort-icon" ng-show="sortKey=='codigo'" ng-class="{'glyphicon-chevron-up':reverse,'glyphicon-chevron-down':!reverse}"></span>
                       </th>
                       <th ng-click="sort('producto')">producto
@@ -41,16 +41,16 @@
                       <th class="text-center"><i class="fa fa-gear fa-fw"></i></th>
                     </tr>                         
                     <tr dir-paginate="prod in productos | orderBy:sortKey:reverse | filter:buscarProducto | itemsPerPage:7">
-                      <td class="hidden">{{ prod.codigo }}</td>
+                      <td>{{ prod.codigo }}</td>
                       <td>{{ prod.producto }}</td>
                       <td>{{ prod.categoria }}</td>
                       <td>{{ prod.unidad }}</td>
                       <td>{{ prod.stock }}</td>
                       <td class="col-xs-1"><input type="text" class="form-control" style="text-align:right" value="0" id="cantidad_{{ prod.idproducto }}"></td>                      
-                      <td class="text-center">
-                        {{ prod.precio  | currency:'S/.' }}
+                      <td class="col-xs-2">
+                        <input type="text" class="form-control" style="text-align:right" value="{{prod.precio | currency:'S/.'}}" id="preciocompra_{{ prod.idproducto }}">
                       </td>
-                      <td class="col-xs-1"><input type="text" class="form-control" id="precioventa_{{ prod.idproducto }}" required="required"></td>                      
+                      <td class="col-xs-2"><input type="text" value="{{(prod.precio*1.2).toFixed(2) | currency:'S/.'}}" class="form-control" id="precioventa_{{ prod.idproducto }}" required="required"></td>                      
                       <td class="text-center">
                         <span>
                           <a  href="javascript:void(0);" ng-click="seleccionarProducto(prod.idproducto)">

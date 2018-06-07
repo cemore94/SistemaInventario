@@ -51,7 +51,7 @@ ventaApp.controller('compraController', ['$scope','$http','$filter', function ($
 		var cant=document.getElementById('cantidad_'+prod.idproducto).value;
 		var nc=parseInt(cant);
 		var precioventa=document.getElementById('precioventa_'+prod.idproducto).value;
-		var npv=parseInt(precioventa);
+		var npv=precioventa;
 		$scope.producto = { 
 			idproducto:prod.idproducto,
 			producto:prod.producto,

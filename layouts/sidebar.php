@@ -84,7 +84,7 @@
         </li>
         <li class="<?php echo $active_ventanueva == 'active' ? $active_ventanueva : $active_administrarventas ;?> treeview">
           <a href="#">
-            <i class="glyphicon glyphicon-usd"></i> <span>Ventas</span>
+            <i class="glyphicon glyphicon-usd"></i> <span>Facturacion</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
@@ -105,6 +105,7 @@
           <ul class="treeview-menu">
             <li><a href="#"><i class="fa fa-bar-chart"></i> Reporte de Ventas</a></li>
             <li><a href="#"><i class="fa fa-line-chart"></i> Reporte de Compras</a></li>
+            <li><a href="#"><i class="fa fa-exchange"></i> KARDEX</a></li>
           </ul>
         </li>
 

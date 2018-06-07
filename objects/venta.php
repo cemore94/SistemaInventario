@@ -76,7 +76,7 @@ class Venta{
         // ejecutamos la consulta
         $stmt->execute();
 
-             
+
         return $stmt;
     }
 

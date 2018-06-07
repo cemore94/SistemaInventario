@@ -13,7 +13,7 @@ $action = (isset($_REQUEST['action']) && $_REQUEST['action'] != null) ? $_REQUES
 if ($action == 'ajax') {
     
     $q = strip_tags($_REQUEST['q'], ENT_QUOTES); 
-    $aColumns = array();
+    $aColumns = array('proveedor.nombres', 'ingreso.tipo_comprobante', 'ingreso.num_comprobante');
     $sWhere = "";
     if ($_GET['q'] != "") {
         $sWhere = "WHERE (";
@@ -25,6 +25,7 @@ if ($action == 'ajax') {
     }
 
     $sWhere .= "ORDER BY idingreso DESC";
+    
     include '../../pagination/pagination.php';
 
     $page = (isset($_REQUEST['page']) && !empty($_REQUEST['page'])) ? $_REQUEST['page'] : 1;

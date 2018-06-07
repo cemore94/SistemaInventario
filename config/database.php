@@ -4,9 +4,9 @@ class Database
 {
 
     private $host     = "localhost";
-    private $db_name  = "dbinventario";
-    private $user     = "root";
-    private $password = "";
+    private $db_name  = "sanesol";
+    private $user     = "test_con";
+    private $password = "coti2018$";
 
     public $conn;
 

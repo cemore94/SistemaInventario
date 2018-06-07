@@ -1,0 +1,113 @@
+[30-Mar-2018 18:26:24 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[30-Mar-2018 18:26:24 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[30-Mar-2018 18:26:24 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[30-Mar-2018 18:26:24 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[30-Mar-2018 18:26:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[30-Mar-2018 18:26:56 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:21:41 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[31-Mar-2018 22:21:41 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[31-Mar-2018 22:21:41 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[31-Mar-2018 22:21:41 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[31-Mar-2018 22:21:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:21:44 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:23:06 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[31-Mar-2018 22:23:06 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[31-Mar-2018 22:23:06 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[31-Mar-2018 22:23:06 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[31-Mar-2018 22:23:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:23:09 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:35:26 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[31-Mar-2018 22:35:26 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[31-Mar-2018 22:35:26 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[31-Mar-2018 22:35:26 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[31-Mar-2018 22:35:28 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:35:29 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/categoria.php on line 56
+[31-Mar-2018 22:36:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/categoria.php on line 56
+[31-Mar-2018 22:36:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/categoria.php on line 56
+[31-Mar-2018 22:36:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/categoria.php on line 56
+[31-Mar-2018 22:36:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:46 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[31-Mar-2018 22:36:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[01-Apr-2018 02:07:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[01-Apr-2018 02:07:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[01-Apr-2018 19:09:48 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[01-Apr-2018 19:09:48 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[01-Apr-2018 19:09:48 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[01-Apr-2018 19:09:48 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[01-Apr-2018 19:09:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[01-Apr-2018 19:09:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/ao555yknrgdk/public_html/sanesol/objects/producto.php on line 133
+[05-Apr-2018 20:07:00 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[05-Apr-2018 20:07:00 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[05-Apr-2018 20:07:00 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[05-Apr-2018 20:07:00 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[07-Apr-2018 01:12:59 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[07-Apr-2018 01:12:59 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[07-Apr-2018 01:12:59 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[07-Apr-2018 01:12:59 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:05:26 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:05:26 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:05:26 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:05:26 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:17:55 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:17:55 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:17:55 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:17:55 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:18:54 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:18:54 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:18:54 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:18:54 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:20:45 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:20:45 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:20:45 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:20:45 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:20:50 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:20:50 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:20:50 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:20:50 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:20:59 UTC] PHP Notice:  Undefined property: Producto::$codigo in /home/ao555yknrgdk/public_html/sanesol/vistas/productos/update_form.php on line 25
+[09-Apr-2018 17:29:47 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:29:47 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:29:47 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:29:47 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:47:42 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:47:42 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:47:42 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:47:42 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:48:48 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:48:48 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:48:48 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:48:48 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[09-Apr-2018 17:51:57 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[09-Apr-2018 17:51:57 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[09-Apr-2018 17:51:57 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[09-Apr-2018 17:51:57 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[29-May-2018 02:26:15 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[29-May-2018 02:26:15 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[29-May-2018 02:26:15 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[29-May-2018 02:26:15 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[29-May-2018 02:26:17 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[29-May-2018 02:26:17 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[29-May-2018 02:26:17 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[29-May-2018 02:26:17 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[29-May-2018 16:08:01 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 26
+[29-May-2018 16:08:01 UTC] PHP Notice:  Undefined variable: active_compranueva in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 35
+[29-May-2018 16:08:01 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 40
+[29-May-2018 16:08:01 UTC] PHP Notice:  Undefined variable: active_ventahistorial in /home/ao555yknrgdk/public_html/sanesol/layouts/sidebar.php on line 50
+[29-May-2018 16:09:03 UTC] PHP Warning:  Division by zero in /home/ao555yknrgdk/public_html/sanesol/vistas/productos/registrar.php on line 21
+[29-May-2018 16:09:03 UTC] PHP Warning:  Division by zero in /home/ao555yknrgdk/public_html/sanesol/vistas/productos/registrar.php on line 22

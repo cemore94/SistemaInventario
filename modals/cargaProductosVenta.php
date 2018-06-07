@@ -44,9 +44,9 @@
                       <td>{{ prod.categoria }}</td>
                       <td>{{ prod.unidad }}</td>
                       <td>{{ prod.stock }}</td>
-                      <td class="col-xs-1"><input type="text" class="form-control" style="text-align:right" value="1" id="cantidad_{{ prod.idproducto }}"></td>                      
-                      <td class="text-center">{{ prod.precio_venta | currency:'S/.'}}</td>
-                      <td class="col-xs-1"><input type="text" class="form-control" id="descuento_{{ prod.idproducto }}" required="required"></td>                      
+                      <td class="col-xs-1"><input type="text" class="form-control" style="text-align:right" value="0" id="cantidad_{{ prod.idproducto }}"></td>                      
+                      <td class="col-xs-2"><input type="text" class="form-control" style="text-align:right" value="{{ prod.preVenta | currency:'S/.'}}" id="preVenta_{{ prod.idproducto }}"></td>
+                      <td class="col-xs-1"><input type="text" class="form-control" id="descuento_{{ prod.idproducto }}" value="0" required="required"></td>                      
                       <td class="text-center">
                         <span>
                           <a  href="javascript:void(0);" ng-click="seleccionarProducto(prod.idproducto)">

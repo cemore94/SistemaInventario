@@ -33,7 +33,11 @@ class DetalleVenta{
         $stmt->bindParam(":precio_venta", $this->precio_venta);
         $stmt->bindParam(":descuento", $this->descuento);
         $stmt->bindParam(":monto", $this->monto);
-        
+        //aqui actualizaremos el stock
+        $query1 = "UPDATE ". $this->table_producto ." SET stock = stock - ". $this->cantidad. " WHERE idproducto = ". $this->idproducto;
+        $stmt1 = $this->conn->prepare($query1);
+        $stmt1->execute();
+        //fin de actualizacion
         if($stmt->execute()){
             return true;    
         }else{

@@ -51,14 +51,15 @@ ventaApp.controller('ventaController', ['$scope','$http','$filter', function ($s
 		var nc = parseInt(cant);
 		var desc=document.getElementById('descuento_'+prod.idproducto).value;
 		var nd = parseInt(desc);
+		var pv = document.getElementById('preVenta_'+prod.idproducto).value;
 		$scope.producto = { 
 			idproducto:prod.idproducto,
 			producto:prod.producto,
 			cantidad:nc,
 			stock:prod.unidades * prod.paquetes,
-			precio_venta:prod.precio_venta,
+			precio_venta:pv,
 			descuento: nd,
-			subtotal:prod.precio_venta * nc - nd
+			subtotal:pv * nc - nd
 		};
 
 		$scope.productosAdd.push($scope.producto);

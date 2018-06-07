@@ -69,6 +69,23 @@ $lastid = $producto->getLastId()+1;
             </td>
         </tr>
         <tr>
+            <td>Unidades</td>
+            <td>
+                <div class="input-group">
+                    <input type="number" name="unidades" id="unidades"  required="required" class="form-control" value="0">
+                    <!--<span class="input-group-addon" style="width:0px; padding-left:0px; padding-right:0px; border:none;"></span>
+                    <select class="form-control" name="select_unidad" required="">
+                        <option value="Unidades">Unidades</option>
+                        <option value="Paquetes">Paquetes</option>
+                    </select>-->
+                    <span class="input-group-btn">
+                        <button type="button" onclick="change();" id="btn-change" data-click="0" style="height: 34px;" class="btn btn-success">U</button>
+                    </span>
+
+                </div>            
+            </td>
+        </tr>
+        <tr>
             <td>Precio</td>
             <td><input type="text" name='precio' id="precio" class='form-control' required /></td>
         </tr>

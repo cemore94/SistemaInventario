@@ -14,7 +14,9 @@ $active_reportes="";
 $active_configuracion="";
 $active_accesos="";
 
+
 include '../../layouts/sidebar.php';
+
 ?>
 
 <!-- Content Wrapper. Contains page content -->
@@ -82,5 +84,6 @@ include '../../layouts/sidebar.php';
  
   <script type="text/javascript" src="../../dist/js/ingreso.js"></script>
 
+ 
 </body>
 </html>
